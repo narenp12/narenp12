@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @narenp12 (Naren Prakash) and I'm an aspiring data scientist (hoping to get a Master's degree too) and lover of all things statistics.
+- 👋 Hi, I’m @narenp12 (Naren Prakash) and I'm an aspiring data scientist (hoping to get a PhD too) and lover of all things statistics.
 - I was born and raised near Houston, Texas and lived there my entire life until going to college at UCLA.
 - My primary interests are sports and anything to do with information.
 - My goal is to keep learning about these exciting fields (and really anything I can learn) for as long as I can.
