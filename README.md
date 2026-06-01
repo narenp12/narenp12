@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @narenp12 (Naren Prakash) and I'm an aspiring statistical researcher (hoping to get a PhD).
-- I was born and raised near Houston, Texas and lived there my entire life until going to college at UCLA.
+- I have a BS in Statistics and Data Science from UCLA
 - My primary interests are sports and anything to do with statistical information.
 - If you want to see more of what I've done or more about me, check out my website linked below!
 - https://www.naren-p.com/
